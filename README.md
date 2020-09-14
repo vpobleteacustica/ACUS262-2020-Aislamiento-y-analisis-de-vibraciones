@@ -35,3 +35,15 @@
 > + Respuesta a impactos.
 > + Excitación sísmica.
 > + Norma de aislamiento sísmico NCh  2745  Of  2003.
+
++ Unidad 4: Vibraciones en sistemas con más de un grado de libertad.
+
+> + Absortor dinámico (incluye experiencia práctica)
+> + Respuesta libre y forzada (sin/con amortiguamiento).
+> + Simetría de las matrices de masa y rigidez.
+> + Frecuencias repetidas y modo de cuerpo rígido. 
+> + Formas modales y ortogonalidad.
+> + Métodos para analizar sistemas vibratorios acoplados 
+> + Matriz modal: autovectores y auto valores 
+> + Vibración libre y forzada. Matriz de transición de estado. 
+> + Métodos numéricos para sistemas con múltiples grados de libertad.
