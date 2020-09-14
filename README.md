@@ -47,3 +47,12 @@
 > + Matriz modal: autovectores y auto valores 
 > + Vibración libre y forzada. Matriz de transición de estado. 
 > + Métodos numéricos para sistemas con múltiples grados de libertad.
+
++ Requisitos de aprobación.
+
+> + Cada unidad se evaluará con una tarea a resolver en grupos de máximo 2 estudiantes.
+> + Los estudiantes tendrán una semana determinada para completar y entregar la tarea.
+> + La entrega de la tarea se hace mediante correo electrónico a vpoblete@uach.cl
+> + Luego de cumplida la fecha de entrega, se descontará un punto por día de atraso.
+> + El promedio de las evaluaciones parciales se calcula como nota_final = T1 0.25 + T2 0.25 + T3 0.25 + T4 0.25.
+> + El estudiante aprobará el curso si nota_final >= 4.0
