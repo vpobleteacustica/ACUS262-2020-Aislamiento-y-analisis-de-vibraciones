@@ -16,3 +16,13 @@
 > + Vibraciones libres de sistemas de un grado de libertad.
 > + Sistemas conservativos y no conservativos.
 > + Sistemas con amortiguamiento viscoso: casos: crítico, sub amortiguado y sobre amortiguado.
+
++ Unidad 2: Vibraciones forzadas en sistemas de un grado de libertad. 
+
+> + Medidas de vibraciones e instrumentación (incluye experiencia práctica).
+> + Obtención de funciones de transferencia usando las propiedades de la transformada de Fourier.
+> + Respuesta en frecuencia.
+> + Movimiento excitado armónicamente.
+> + Resonancias. 
+> + Transmisibilidad y aislamiento de vibraciones (incluye experiencia práctica).
+> + Amortiguamiento y frecuencia natural.
