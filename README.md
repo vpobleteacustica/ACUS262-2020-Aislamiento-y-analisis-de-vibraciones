@@ -26,3 +26,12 @@
 > + Resonancias. 
 > + Transmisibilidad y aislamiento de vibraciones (incluye experiencia práctica).
 > + Amortiguamiento y frecuencia natural.
+
++ Unidad 3: Excitación no sinusoidal.
+
+> + Análisis de Fourier para excitación periódica.
+> + Excitación arbitraria
+> + Integral de convolución
+> + Respuesta a impactos.
+> + Excitación sísmica.
+    • Norma de aislamiento sísmico NCh  2745  Of  2003.
