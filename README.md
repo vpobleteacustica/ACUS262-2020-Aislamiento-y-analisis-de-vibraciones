@@ -10,10 +10,9 @@
 #### Unidades:
 
 + Unidad 1: Vibraciones en sistemas de un grado de libertad.
-
-    • Modelo de parámetros concentrados de vibración.
-    • Aproximaciones lineales, estabilidad, frecuencias naturales de vibración.
-    • Ecuaciones de movimiento: métodos energéticos. Ecuaciones de Euler-Lagrange.
-    • Vibraciones libres de sistemas de un grado de libertad.
-    • Sistemas conservativos y no conservativos.
-    • Sistemas con amortiguamiento viscoso: casos: crítico, sub amortiguado y sobre amortiguado.
+> + Modelo de parámetros concentrados de vibración.
+> + Aproximaciones lineales, estabilidad, frecuencias naturales de vibración.
+> + Ecuaciones de movimiento: métodos energéticos. Ecuaciones de Euler-Lagrange.
+> + Vibraciones libres de sistemas de un grado de libertad.
+> + Sistemas conservativos y no conservativos.
+> + Sistemas con amortiguamiento viscoso: casos: crítico, sub amortiguado y sobre amortiguado.
