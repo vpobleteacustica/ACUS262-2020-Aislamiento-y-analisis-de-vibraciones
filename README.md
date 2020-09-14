@@ -34,4 +34,4 @@
 > + Integral de convolución
 > + Respuesta a impactos.
 > + Excitación sísmica.
-    • Norma de aislamiento sísmico NCh  2745  Of  2003.
+> + Norma de aislamiento sísmico NCh  2745  Of  2003.
