@@ -56,3 +56,6 @@
 > + Luego de cumplida la fecha de entrega, se descontará un punto por día de atraso.
 > + El promedio de las evaluaciones parciales se calcula como nota_final = T1 0.25 + T2 0.25 + T3 0.25 + T4 0.25.
 > + El estudiante aprobará el curso si nota_final >= 4.0
+
++ Otros recursos: Programa y clases desarrolladas: 
+https://github.com/vpobleteacustica/ACUS262-Aislamiento-y-analisis-de-vibraciones
